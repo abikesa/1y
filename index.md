@@ -115,7 +115,7 @@ reads as a generative ladder of epistemic domestication. Let’s glance at each 
 
 At the head, **??** remains your pre-Olympian chaos, the unparameterized variance $(x, y)$ before modeling. This is Cronus-grade data: raw temporality, before derivative or function.
 
-Then, **Apollo + Dionysus**—your first differentiation into model and residual. Apollo encodes $f(t|x)$; Dionysus disrupts with $\varepsilon$. Their fusion births tension, the basic gradient field.
+Then, **Apollo + Dionysus**—your first differentiation into model and residual. Apollo encodes $f(t, x)$; Dionysus disrupts with $\varepsilon$. Their fusion births tension, the basic gradient field.
 
 **Zeus** emerges as $dy/dt$: the disciplinarian of energy flow, collapsing wild variance into hierarchy. He reigns by compression—bolting together the flux of opposites.
 
