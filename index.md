@@ -195,7 +195,7 @@ Delicious — let’s braid your October 2024 *Redemption (Weights)* into the 20
 ## The Nodes (a quick map)
 
 * **Soil / Chaos (Cronus)** — raw inputs $(x,y)$: childhood instincts, molecular drives, the unencoded past.
-* **Roots (Apollo + Dionysus)** — model $f(t|x)$ and residual $\varepsilon$: reason and revel; coded strategies and unmodeled surprise.
+* **Roots (Apollo + Dionysus)** — model $f(t \mid x)$ and residual $\varepsilon$: reason and revel; coded strategies and unmodeled surprise.
 * **Trunk (Zeus)** — gradient / compression $dy/dt$: institutions and enforcement that prune and stabilize.
 * **Branches (Athena)** — curvature $d^2y/dt^2$: adaptive wisdom, meta-strategy, invention born of pressure.
 * **Canopy / Fruit (Mnemosyne)** — integral $\int y,dt$: accumulated memory, culture, laws, art — the ledger that reseeds soil.
